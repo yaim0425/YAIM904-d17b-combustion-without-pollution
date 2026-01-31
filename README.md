@@ -1,5 +1,7 @@
 # YAIM904 d17b – Combustion without Pollution 🔥🌱
 
+---
+
 ## 📦 Description
 
 **YAIM904 d17b – Combustion without Pollution** removes **pollution emissions from all entities that use combustible fuels**.
@@ -45,7 +47,7 @@ Only pollution output is modified; normal gameplay behavior remains the same.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
